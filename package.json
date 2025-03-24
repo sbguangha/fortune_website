@@ -1,0 +1,11 @@
+{
+  "name": "fortune-website",
+  "version": "1.0.0",
+  "description": "东方运势网站 - 专业运势分析平台",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "葛勇攀",
+  "license": "MIT"
+} 

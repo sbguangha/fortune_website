@@ -1,2 +1,44 @@
-# fortune_website
-fortune_website,creater by cursor,my first code
+# 东方运势网站
+
+一个使用纯HTML和TailwindCSS构建的现代化运势分析网站。
+
+## 项目说明
+
+东方运势是一个专业的运势分析平台，结合东方玄学、紫微斗数、易经、星座等多种理论体系，为用户提供全面、精准的运势分析和人生指导。
+
+本项目采用纯HTML + TailwindCSS技术栈搭建，无需其他依赖，简洁高效。
+
+## 功能特点
+
+- 完整的运势计算功能，包含姓名、生日等信息输入
+- 运势结果展示，包括运势评级、分数、宜忌等内容
+- 响应式设计，适配各种屏幕尺寸
+- 现代化UI设计，类似苹果官网的简洁风格
+- 完整的网站功能区域，包含header、hero、features、testimonials等
+
+## 如何启动
+
+1. 确保您已安装Node.js环境
+2. 进入项目目录
+3. 运行以下命令启动服务器：
+
+```bash
+npm start
+```
+
+4. 打开浏览器，访问 http://localhost:3000
+
+## 项目结构
+
+- `index.html` - 主页面
+- `server.js` - 简单的Node.js服务器
+- `package.json` - 项目配置文件
+
+## 联系方式
+
+开发者：葛勇攀  
+邮箱：2577388908@qq.com
+
+## 许可证
+
+MIT 
